@@ -1,0 +1,33 @@
+{
+  "name": "codegeniuskit",
+  "version": "1.0.2",
+  "description": "codegeniuskit",
+  "type": "module",
+  "main": "codegeniuskit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iqrak578649/codegeniuskit"
+  },
+  "website": "https://github.com/iqrak578649/codegeniuskit.git",
+  "keywords": [
+    "codegeniuskit"
+  ],
+  "author": "iqrak578649",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqrak578649/codegeniuskit/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/iqrak578649/codegeniuskit#readme",
+  "dependencies": {
+    "devcraftbox": "1.0.2",
+    "programwiz": "1.0.2",
+    "scriptmentor": "1.0.2"
+      }
+}
